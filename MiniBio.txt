@@ -1,0 +1,30 @@
+Mini Bio
+
+Name: Chester Cho
+Degreed Education:  UCSD, BS in Biochemistry.
+Coding Education: Monta Vista High School, Programming in C.
+
+Work experience:
+After graduating from UCSD, I joined the SIGNAL lab in SALK institute as a bioinformatics assistant.  
+It was a full time internship and I really liked the lab and its faculties.  I enjoyed every moment 
+of the coding and the interactions with the research assistants.  My primary duty is to develop an 
+application that would record the result of the analytical procedures performed by other assistants.   
+My other duty includes parsing DNA sequences from public data base on various websites.  Even though 
+I was having a blast working for SALK, I knew it wouldn’t last because of the financial obligations 
+that needed to be addressed and the lab was not pulling in enough grants to make me a permanent 
+employee.  I had made plan to get a job that would allow me to pay off the family debts, so I could 
+indulge myself with a job similar to the one I had at SALK.   After leaving SALK, I was fortunate 
+enough to get scooped up by my dad’s factory in China.  It was a factory that manufacture ladies 
+dress shoes, but mostly stilettos.  My duties there ranged from customer service to monthly payroll 
+to authorizing purchases.  As long as it had something to do with factory operation, I was involved.  
+Occasionally, I would take on the role of management to fire employees who got caught embezzling 
+company resources, just because no one wanted to do it and I was the tallest person in the office.  
+They tend to equate height and the ability to intimidate.  It was a rather unique experience and I 
+am very grateful that my dad had bestowed me with the opportunity and the responsibilities.  It was 
+no easy work, as things in a dress shoes factory never worked according to plans and macro issues such 
+as inflation and currency appreciation always hindered factory operations.  After three years, I was 
+able to pay off all financial obligations and I left the factory.  Just like the position at SALK, 
+this was an experience I will always remember vividly for the rest of my life.      
+
+
+
