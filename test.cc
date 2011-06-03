@@ -1,4 +1,4 @@
-/*	test.cc is a program that will test and prove the minimum moves it takes to cover
+/*	test.cc is a program that will test and prove the minimum moves a knight takes to cover
 	the entire board.  It will first try to cover the corners and the sides then utilizes 
 	recursion to finsih up the remaining spaces on the board.  The reason for the combination 
 	approach is to reduce the time it takes to complete the test.  It would take way to long
