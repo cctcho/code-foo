@@ -1,12 +1,19 @@
 Question 1.
 
-1. How are the pennies positioned, standing upright or lying flat on the surface.  Assuming they are lying down flat on the surface.  
+1. How are the pennies positioned, standing upright or lying flat on the surface.  
+Assuming they are lying down flat on the surface.  
 
 2. Get the entire surface area of the Golden Gate Bridge.  The surface area should cover everything.
 
 3. Get the diameter and thickness of a penny.  19.05mm and 1.55 mm respectively. 
 
-4. Only found the length and width of bridge and 20,412.64 USD spent on paint back in 1937.20,412.64 USD in 1937 = 318,814.25 USD in 2011 = 7970 gallon of international orange paint, which is currently at 40 USD per gallon.  Including the effect of public project bidding and other inflation effects, the total estimate paint used is rounded up to 10,000 gallon in 1937.  Construction started in 1933, assuming painting started in 1934 and the painting expense was incurred equally from 1934 to 1937.  10,000 gallon in 4 years is 40,000 gallon. 
+4. Only found the length and width of bridge and 20,412.64 USD spent on paint back in 1937.
+20,412.64 USD in 1937 = 318,814.25 USD in 2011 = 7970 gallon of international orange 
+paint, which is currently at 40 USD per gallon.  Including the effect of public 
+project bidding and other inflation effects, the total estimate paint used is rounded 
+up to 10,000 gallon in 1937.  Construction started in 1933, assuming painting started 
+in 1934 and the painting expense was incurred equally from 1934 to 1937.  10,000 gallon 
+in 4 years is 40,000 gallon. 
 
 5. Estimate 7771 pennies per gallon and estimate thickness of golden gate bridge paint 0.3mm.
 
@@ -33,7 +40,19 @@ The minimum moves for a knight to cover the entire board is 63.  See test.cc for
 
 Question 4.
 
-As an avid gamer, I have always count on IGN as the ultimate bad games patrol for years. Without the comprehensive review system, I would have been cornered in the dark alley by vicious titles such as Superman 64, Street Fighter EX, and Quest 64.  I really appreciate the services provided by IGN and I totally love the range of information IGN has made available to fellow readers.  Most importantly, IGN has always been the most innovative and the reliable source of information for me.  As fellow gamers become more sophisticated, the desire to associate ourselves with better and more exclusive information burns ever more.  The demand for quality information sharing is at an all time high, and innovation of information sharing is what IGN does best.  The thought of participating in building a vital platform for sharing valuable information is very exhilarating, but to actually do it with fellow gamers who harbors the same passion would be like 
-joining the ultimate raid party, which can only be described as orgasmically good!  The games, the innovations, and the camaraderie...it doesn't get any better for me.  In an environment described above, I just need a computer and some water to live on with pleasure in perpetuity.            
+As an avid gamer, I have always count on IGN as the ultimate bad games patrol for years. 
+Without the comprehensive review system, I would have been cornered in the dark alley by 
+vicious titles such as Superman 64, Street Fighter EX, and Quest 64.  I really appreciate 
+the services provided by IGN and I totally love the range of information IGN has made available 
+to fellow readers.  Most importantly, IGN has always been the most innovative and the reliable 
+source of information for me.  As fellow gamers become more sophisticated, the desire to 
+associate ourselves with better and more exclusive information burns ever more.  The demand for 
+quality information sharing is at an all time high, and innovation of information sharing is what 
+IGN does best.  The thought of participating in building a vital platform for sharing valuable 
+information is very exhilarating, but to actually do it with fellow gamers who harbors the same 
+passion would be like joining the ultimate raid party, which can only be described as orgasmically 
+good!  The games, the innovations, and the camaraderie...it doesn't get any better for me.  In 
+an environment described above, I just need a computer and some water to live on with pleasure 
+in perpetuity.            
 
 
