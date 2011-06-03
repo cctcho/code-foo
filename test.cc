@@ -1,14 +1,14 @@
 /*	test.cc is a program that will test and prove the minimum moves a knight takes to cover
 	the entire board.  It will first try to cover the corners and the sides then utilizes 
-	recursion to finsih up the remaining spaces on the board.  The reason for the combination 
+	recursion to finish up the remaining spaces on the board.  The reason for the combination 
 	approach is to reduce the time it takes to complete the test.  It would take way to long
-	under the full recursion method, because it takes exponentially longer to travers all
+	under the full recursion method, because it takes exponentially longer to traverse all
 	the spaces on the board. The assumption is the shortest path exists when the knight 
-	traversed all the postions available on the board without overlaping any of its previous 
+	traversed all the positions available on the board without overlapping any of its previous 
 	moves.   
 
 	position tested: Corner rank 8 file 8.  Side rank 4 file 1.
-	typcial Starting position rank 1 file 2. center posistion rank 5 file 5. 
+	typicial Starting position rank 1 file 2. center position rank 5 file 5. 
 
 	This program is written with Microsoft Visual C++ 2010 express
 	Chester
