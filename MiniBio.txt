@@ -1,6 +1,8 @@
 Mini Bio
 
 Name: Chester Cho
+Phone: 408-996-2049
+E-Mail: chester.ct.cho@gmail.com
 Degreed Education:  UCSD, BS in Biochemistry.
 Coding Education: Monta Vista High School, Programming in C.
 
